@@ -1,1 +1,2 @@
-This is a iitial commit in dev file
+This is a initial commit in dev file
+This is second commit in dev file
